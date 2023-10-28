@@ -1,0 +1,15 @@
+#integracao{
+height: 100vh;
+display: flex;
+justify-content: center;
+text-align: center;
+}
+.vermelho{
+    color: red;
+}
+.amarelo{
+    color: yellow;
+}
+.verde{
+    color: green;
+}
